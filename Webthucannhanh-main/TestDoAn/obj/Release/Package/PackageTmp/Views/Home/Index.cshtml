@@ -1,0 +1,70 @@
+﻿@model IEnumerable<TestDoAn.Models.SanPham>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/layout.cshtml";
+}
+
+@*@foreach (var item in Model)
+{
+    <div class="card item">
+        @{
+            string tenhinh = "~/img/" + item.hinh;
+        }
+        <img class="card-img-top" src="@Url.Content(tenhinh)" alt="Card image" style="width:100%">
+        <div class="card-body text-center">
+            <h5 class="card-text product-name">@item.tensp</h5>
+            <h4 class="card-text text-success font-weight-bold">@item.dongia</h4>
+            <a href="#" class="btn btn-success font-weight-bold">ĐẶT HÀNG</a>
+        </div>
+    </div>
+
+}*@
+@{
+    int i = 0;
+    bool flag = true;
+    while (true)
+    {
+    <div class="row">
+        @{
+            int j = 0;
+            while (j < 4)
+            {
+                if (i * 4 + j >= Model.ToList().Count)
+                {
+                    flag = false;
+                    break;
+                }
+                TestDoAn.Models.SanPham item = Model.ToList()[i * 4 + j];
+                <form action="@Url.Action("chonMua","nhanvien",new {id=item.masp })"  method="get" class="col-xs-12 col-sm-3">
+                    
+                        <div class="card item ">
+                            @{
+                                string tenhinh = "~/img/" + item.hinh;
+                            }
+                            <img class="card-img-top" src="@Url.Content(tenhinh)" alt="Card image" width="100" height="150">
+                            <div class="card-body text-center">
+                                
+                                <h5 class="card-text product-name">@item.tensp</h5>
+                                <h4 class="card-text text-success font-weight-bold">@item.dongia VNĐ</h4>
+                                @*<a href="#" class="btn btn-success font-weight-bold">ĐẶT HÀNG</a>*@
+                               
+                                <input type="submit" value="Đặt Hàng" class="btn btn-success font-weight-bold" id="sumit"/>
+                            </div>
+                        </div>
+                    
+                </form>
+                
+                j++;
+
+            }
+        }
+    </div>
+
+                if (flag == false)
+                {
+                    break;
+                }
+                i++;
+            }
+        }

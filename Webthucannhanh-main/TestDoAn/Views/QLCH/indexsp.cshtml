@@ -1,0 +1,48 @@
+﻿@model IEnumerable<TestDoAn.Models.SanPham>
+
+@{
+    ViewBag.Title = "indexsp";
+    Layout = "~/Views/Home/_LayoutQLCH.cshtml";
+}
+
+<h2>indexsp</h2>
+
+<p>
+    @Html.ActionLink("Thêm Sản Phẩm", "formthemsp")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tensp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dongia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dvt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hinh)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.tensp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dongia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dvt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hinh)
+        </td>
+        
+    </tr>
+}
+
+</table>

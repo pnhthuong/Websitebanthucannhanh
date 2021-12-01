@@ -1,0 +1,292 @@
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\TestDoAn.dll.config
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\TestDoAn.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\TestDoAn.pdb
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\csc.exe
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\csc.exe.config
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\csc.rsp
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\csi.exe
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\csi.exe.config
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\csi.rsp
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Console.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\vbc.exe
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\vbc.exe.config
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\vbc.rsp
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Helpers.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Mvc.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Razor.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Webpages.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Webpages.Razor.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Razor.xml
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Webpages.xml
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Webpages.Razor.xml
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Helpers.xml
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\System.Web.Mvc.xml
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csprojAssemblyReference.cache
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csproj.CopyComplete
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\obj\Debug\TestDoAn.dll
+C:\Users\PC\Documents\pnhthuong\Nam 4\HKI\ASP NET\TestDoAn\TestDoAn\obj\Debug\TestDoAn.pdb
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\TestDoAn.dll.config
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\TestDoAn.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\TestDoAn.pdb
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\csc.exe
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\csc.rsp
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\csi.exe
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\csi.rsp
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\vbc.exe
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Razor.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Webpages.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Razor.xml
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Webpages.xml
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csproj.CopyComplete
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\obj\Debug\TestDoAn.dll
+C:\Users\Administrator\Downloads\TestDoAn\TestDoAn\obj\Debug\TestDoAn.pdb
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\TestDoAn.dll.config
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\TestDoAn.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\TestDoAn.pdb
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csc.exe
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csc.exe.config
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csc.rsp
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csi.exe
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csi.exe.config
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csi.rsp
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.AppContext.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Collections.Immutable.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Console.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.Compression.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.FileSystem.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.Pipes.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Reflection.Metadata.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.AccessControl.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Claims.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.ValueTuple.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XPath.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\vbc.exe
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\vbc.exe.config
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\vbc.rsp
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\VBCSCompiler.exe
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\VBCSCompiler.exe.config
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Helpers.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Mvc.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Razor.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.Deployment.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.Razor.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Razor.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.Deployment.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.Razor.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Helpers.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Mvc.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csproj.CoreCompileInputs.cache
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csproj.CopyComplete
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.pdb
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\EntityFramework.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\EntityFramework.SqlServer.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\EntityFramework.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\EntityFramework.SqlServer.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Validation.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Validation.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Newtonsoft.Json.dll
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Newtonsoft.Json.xml
+E:\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csprojAssemblyReference.cache
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\TestDoAn.dll.config
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\TestDoAn.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\TestDoAn.pdb
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csc.exe
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csc.exe.config
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csc.rsp
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csi.exe
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csi.exe.config
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\csi.rsp
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.AppContext.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Collections.Immutable.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Console.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.Compression.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.FileSystem.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.IO.Pipes.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Reflection.Metadata.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.AccessControl.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Claims.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Security.Principal.Windows.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.ValueTuple.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XPath.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\vbc.exe
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\vbc.exe.config
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\vbc.rsp
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\VBCSCompiler.exe
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\roslyn\VBCSCompiler.exe.config
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\EntityFramework.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\EntityFramework.SqlServer.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Microsoft.Web.Infrastructure.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Newtonsoft.Json.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Helpers.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Mvc.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Razor.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.Deployment.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.Razor.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Validation.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\EntityFramework.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\EntityFramework.SqlServer.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Newtonsoft.Json.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Validation.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Razor.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.Deployment.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Webpages.Razor.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Helpers.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\System.Web.Mvc.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csproj.CoreCompileInputs.cache
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csproj.CopyComplete
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.dll
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.pdb
+E:\2020_year\DoAn_ChuyenNganh\DoAnChuyenNganh_2020\TestDoAn\TestDoAn\obj\Debug\TestDoAn.csprojAssemblyReference.cache
